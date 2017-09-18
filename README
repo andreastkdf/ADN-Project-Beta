@@ -1,0 +1,11 @@
+
+Ouvrir un terminal et executer make.
+
+-Si tout se passe bien vous pouvez executer ./adn
+
+
+- A chaque execution vous avez des séquences differentes donc des resultats differents
+
+- Si vous voulez changer la longueur vous pouvez changer L dans main.c dans la section des definitions et make clean puis make pour executer
+
+ATTENTION des trop grands  peuvent prendre enormement de temps pour la version iterative.
